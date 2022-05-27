@@ -5,7 +5,7 @@ FullStack Developer, Designer
 ## Technologies I  ❤️ working 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+![Next.js](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![Sprig](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
