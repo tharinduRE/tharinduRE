@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Tharindu
 
-Full Stack Engineer/ Designer
+Full Stack Software Engineer/ Designer
 
 ## 🚀 Technologies I ❤ working 
 
