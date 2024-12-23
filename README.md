@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Tharindu
 
-Full Stack Software Engineer
+Senior Software Engineer
 
 ## 🚀 Technologies I ❤ working 
 
